@@ -1,0 +1,17 @@
+# build output
+bin/
+build/
+*.o
+*.out
+
+# run output
+er_log.txt
+*.log
+results/summary.md
+
+# editors / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
